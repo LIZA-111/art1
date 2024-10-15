@@ -1,0 +1,70 @@
+ytbody {
+  font-family: serif, Times New Roman;
+  margin: 0;
+  padding: 0;
+  background-color: mintcream;
+  color: #222;
+}
+.navbar{
+  background-image: url(https://i.pinimg.com/564x/c3/85/da/c385daefcea8833b77678fc2a02d5d9b.jpg);
+  border-radius: 10px ;
+  width: 700px;
+  height: 200px;
+  padding-top: 20px;
+  line-height: 1.12;
+}
+
+h1{
+  text-align: left;
+  font-size: 30px;
+  font-family: serif, Times New Roman;
+  padding-left: 50px;
+}
+
+h2, {
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+p{
+  padding-left: 10;
+}
+
+.phase{
+  background-color: powderblue;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#reflection{
+  background-color: wheat;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+  
+.tipsandtricks-section {
+  background-color: lemonchiffon;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+}
+
+.resources-section {
+  background-color: antiquewhite;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+
